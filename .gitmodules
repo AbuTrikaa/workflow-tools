@@ -1,0 +1,4 @@
+[submodule "sub"]
+	path = "sub"
+	url = https://github.com/NotMoSala/TotallyNormal.git
+	path = "sub"
