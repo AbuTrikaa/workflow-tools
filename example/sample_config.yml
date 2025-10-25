@@ -1,0 +1,9 @@
+project_name: "workflow Onboarding"
+author: "Jane Doe"
+items:
+  checklist:
+    - "Install dependencies"
+    - "Run linting"
+    - "Run unit tests"
+  sample_data_count: 42
+  notes: "This config is an example for local testing only."
